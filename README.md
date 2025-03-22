@@ -1,4 +1,4 @@
-# ?? Task Manager API (ASP.NET Core + SQL Server + Docker)
+# Task Manager API (ASP.NET Core + SQL Server + Docker)
 
 A backend API for a task management application, built using ASP.NET Core 8, Entity Framework Core, and SQL Server running in Docker. This project is designed to reinforce .NET skills learned during MSSA and demonstrate full CRUD capabilities via a clean Web API.
 
