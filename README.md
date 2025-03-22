@@ -4,7 +4,7 @@ A backend API for a task management application, built using ASP.NET Core 8, Ent
 
 ---
 
-## ?? Prerequisites
+## Prerequisites
 
 - Visual Studio 2022
 - Docker Desktop
@@ -13,7 +13,7 @@ A backend API for a task management application, built using ASP.NET Core 8, Ent
 
 ---
 
-## ?? Running SQL Server in Docker
+## Running SQL Server in Docker
 
 1. Pull the SQL Server 2022 image:
    ```bash
